@@ -1,0 +1,38 @@
+body {
+    background-color: #232323;
+}
+
+#container{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.square {
+    width: 30%;
+    padding-bottom: 30%;
+    background-color: blue;
+    float: left;
+    margin: 1.66%;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+span {
+    color: white;
+}
+
+#stripe {
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+
+#message {
+    color: black;
+}
+
+.selected {
+    background-color: blue;
+}
